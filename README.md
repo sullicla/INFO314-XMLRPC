@@ -11,7 +11,7 @@ Read the instructions in the README.md file to create a Calculator app using the
  
 
 ## Rubric / Stories (10 pts)
-# Server (5pts)
+### Server (5pts)
 A basic scaffolded HTTP server (using the SparkJava project) is provided for you in the JavaServer directory. You are free to use this, or you can use a different project if you choose. Whatever you use, your HTTP endpoint must:
 
 - listen on port 8080
